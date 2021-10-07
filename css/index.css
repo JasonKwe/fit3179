@@ -1,0 +1,15 @@
+/* Element selectors: general style */
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    margin: 10px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+table {
+    margin: 5px;
+}
