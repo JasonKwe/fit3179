@@ -1,0 +1,100 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":"Imports testing",
+    "description": "A humble visualisation",
+    "data": {"url": "data/imports_clean.csv"},
+    "params": [
+      {
+        "name": "year_selection",
+        "value": 2019,
+        "bind":{
+          "input": "range",
+          "min": 1990,
+          "max": 2019,
+          "step": 1,
+          "name": "Year: "
+        }
+      },
+      {
+        "name": "continent_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Americas",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Oceania"],
+        "labels": [
+            "Show All",
+            "Americas",
+            "Europe",
+            "Africa",
+            "Asia",
+            "Oceania"
+        ], 
+        "name": "Select continent: "
+        }
+      }
+    ],
+    "transform": [
+      {
+        "filter": "datum.year == year_selection & (continent_selection == null || datum.continent == continent_selection)"
+      }
+    ],
+
+    "layer": [
+      {
+        "mark": "bar",
+        "encoding": 
+        {
+          "x": {
+            "field": "member", 
+            "type": "nominal",
+            "sort": {"field": "import", "order": "descending"}
+          },
+          "y": {
+            "field": "import", 
+            "type": "quantitative"
+          },
+          "color": {
+            "field": "continent",
+            "type": "nominal",
+            "scale": {
+              "domain": [
+                "Americas",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+              ],
+              "range": [
+                "#984ea3",
+                "#ff7f00",
+                "#a6cee3",
+                "#377eb8",
+                "#a65628"
+              ]
+            }
+          },
+          "tooltip": [
+            {"field": "member", "type": "nominal", "title": "Country"},
+            {"field": "continent", "type": "nominal", "title": "Continent"},
+            {"field": "import", "type": "quantitative", "title": "Total imports (in thousands of 60-kg bags)"
+          }]
+        }
+      }, {
+        "mark": "rule",
+        "encoding": {
+          "y": {
+            "aggregate": "mean",
+            "field": "import",
+            "type": "quantitative"
+          },
+          "color": {"value": "red"},
+          "size": {"value": 3}
+        }
+      }
+    ]
+}
