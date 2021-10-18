@@ -1,0 +1,32 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 1000, "height": 100,
+    "data": {"url": "https://raw.githubusercontent.com/JasonKwe/fit3179/main/visualisation2/data/economy/imports_clean.csv"},
+    "mark": {
+      "type": "line",
+      "fillOpacity": 0.5
+    },
+    
+    "encoding": {
+      "x": {
+        "timeUnit": "year", 
+        "field": "year", 
+        "type": "temporal",
+        "axis": {"format": "%Y"},
+        "title": null
+      },
+      "y": {
+        "aggregate": "sum", 
+        "field": "import", 
+        "type": "quantitative",
+        "title": "Import"
+      },
+      "color": {
+        "field": "continent",
+        "type": "nominal"
+      },
+      "tooltip": [
+        {"field": "continent", "type": "nominal", "title": "Continent"}
+    ]
+    }
+  }

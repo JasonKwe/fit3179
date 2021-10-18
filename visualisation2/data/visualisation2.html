@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Visualisation 2: A taste of Specialty Coffee</title>
+    
+    <!-- Vega-Lite -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/visualisation2.css">
+
+    <!-- Pure CSS (grids) -->
+    <link rel="stylesheet" 
+    href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" 
+    integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" 
+    crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="content">
+        <!--- Introduction --->
+        <h1>Global Coffee Trade</h1>
+        <hr class="rounded">
+
+        <!--- Commerce by geography -->
+        <div>
+            <h2>Exporters</h2>
+        </div>
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <p>Having been well-established as a commodity as early as 
+                <p>the 1500s, coffee has since spread across the globe </p>
+                <p>far from its <strong>Ethiopian roots</strong>.</p>
+            </div>
+            <div class="pure-u-1-2">
+                <p>Coffee trees grow best a <strong>mild</strong> climate: 
+                    between <strong>21°C</strong> and <strong> 29°C</strong>.</p>
+                <p>The "Bean Belt" around the Equator is perfect for this.</p> 
+            </div>
+        </div>
+
+        <div>
+            <p style="text-align: center;">Countries can usually be grouped into primarily <strong>exporters </strong>or <strong>importers</strong>.</p>
+            <p style="text-align: center;">Below is a map of export countries from <strong><span style="color: rgb(41, 105, 176);">Africa</span></strong>, <strong><span style="color: rgb(243, 121, 52);">America</span></strong>, <strong><span style="color: rgb(184, 49, 47);">Asia</span></strong>, and <strong><span style="color: rgb(26, 188, 156);">Oceania</span></strong>.</p>
+            <div id="export_main"></div>
+        </div>
+        
+        <div class="pure-g">
+            <div class="pure-u-1">
+                <div id="export_line"></div>
+            </div>
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1">
+                <h3 class="exports_time">Exports over time</h3>
+                <b3 class="exports_time">Note the steady export numbers from <span style="color: rgb(41, 105, 176);">Africa</span>.</b>
+                <div id="export_zoom"></div>
+            </div>
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1">
+                <h2 id="importers_title">Importers</h2>
+                <p>Countries outside of the Coffee Belt must rely primarily on <strong>importing</strong> coffee beans from the <strong>exporters </strong> countries.</p>
+                <p>The <span style="color: rgb(243, 121, 52);">United States</span> and many <span style="color: rgb(97, 189, 109);">European</span> countries are among the top importers. </p>
+                <div id="import_main"></div>
+            </div>
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1">
+                <div id="import_line"></div>
+            </div>
+        </div>
+
+        <!--- Taste -->
+        <h1 id=flavour>Coffee Flavour</h1>
+        <hr class="rounded">
+        <p class="vert"></p>
+        <p style="text-align: center;">The Coffee Quality Institute regularly review coffee beans around the world.</p>
+        <p style="text-align: center;">Each batch is judged based on different quality measures, standardised out of 10.</p>
+        <p style="text-align: center;">Specialty coffee is grouped by two main species: <strong>Arabica</strong> and <strong>Robusta</strong>.</p>
+        <p class="vert"></p>
+
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <div id="arabica_bar"></div>
+            </div>
+            <div class="pure-u-1-2">
+                <div id="robusta_bar"></div>
+            </div>
+        </div>
+
+        <!--- JS: Link visualisations with their respective divisions -->
+        <script>
+            var export_main = "js/export_main.vg.json";
+            vegaEmbed("#export_main", export_main).then(function(result) {}).catch(console.error);
+
+            var export_zoom = "js/export_zoom.vg.json";
+            vegaEmbed("#export_zoom", export_zoom).then(function(result) {}).catch(console.error);
+
+            var export_line = "js/export_line.vg.json";
+            vegaEmbed("#export_line", export_line).then(function(result) {}).catch(console.error);
+
+            var import_main = "js/import_main.vg.json";
+            vegaEmbed("#import_main", import_main).then(function(result) {}).catch(console.error);
+
+            var import_line = "js/import_line.vg.json";
+            vegaEmbed("#import_line", import_line).then(function(result) {}).catch(console.error);
+
+            var arabica_bar = "js/arabica_bar.vg.json";
+            vegaEmbed("#arabica_bar", arabica_bar).then(function(result) {}).catch(console.error);
+
+            var robusta_bar = "js/robusta_bar.vg.json";
+            vegaEmbed("#robusta_bar", robusta_bar).then(function(result) {}).catch(console.error);
+
+        </script>
+    </div>
+</body>
+</html>

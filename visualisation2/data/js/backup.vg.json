@@ -1,0 +1,122 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "vconcat":[
+        {
+            "title": { 
+                "text": "Stardardised testing scores of Arabica coffee per country",
+                "font": "Open Sans"
+            },
+            "params": [
+                {
+                    "name": "zoom_dropdown",
+                    "value": "Ethiopia",
+                    "bind":{
+                        "input": "select",
+                        "options": ["Brazil", "Burundi", "China", 
+                            "Colombia",                     "Costa Rica",                   "Cote d?Ivoire",               
+                            "Ecuador",                      "El Salvador",                  "Ethiopia",                    
+                            "Guatemala",                    "Haiti",                        "Honduras",                    
+                            "India",                        "Indonesia",                    "Japan",                    
+                            "Kenya",                        "Laos",                         "Malawi",                      
+                            "Mauritius",                    "Mexico",                       "Myanmar",                     
+                            "Nicaragua",                    "Panama",                       "Papua New Guinea",            
+                            "Peru",                         "Philippines",                  "Rwanda",                      
+                            "Taiwan",                       "Tanzania, United Republic Of", "Thailand",                    
+                            "Uganda",                       "United States",                "United States (Hawaii)",      
+                            "United States (Puerto Rico)",  "Vietnam",                      "Zambia"],
+                        "name": "Country"
+                    }
+                }
+            ],
+            "data": {
+                "url": "https://raw.githubusercontent.com/JasonKwe/fit3179/main/visualisation2/data/taste/arabica_clean.csv"
+            },
+            "transform": [
+                {
+                    "filter": "datum.countryoforigin == zoom_dropdown && datum.qualitymeasure != 'total'"
+                }
+            ],
+            "mark": {
+                "type": "bar",
+                "height": {"band": 0.6},
+                "cornerRadius": 6,
+                "color": "#bf8543",
+                "fillOpacity": 0.8
+            },
+            "encoding": {
+                "x": {
+                    "field": "score",
+                    "type": "quantitative",
+                    "title": "Score"
+                },
+                "y": {
+                    "field": "qualitymeasure",
+                    "type": "nominal",
+                    "title": "Quality measure",
+                    "sort": null
+                },
+                "tooltip": [
+                    {"field": "countryoforigin", "type": "nominal", "title": "Country"},
+                    {"field": "qualitymeasure", "type": "nominal", "title": "Quality measure"},
+                    {"field": "score", "type": "quantitative", "title": "Score"}
+                ]
+            }
+        },
+        {
+            "title": { 
+                "text": "Stardardised testing scores of Robusta coffee per country",
+                "font": "Open Sans"
+            },
+            "params": [
+                {
+                    "name": "zoom_dropdown_r",
+                    "value": "United States",
+                    "bind":{
+                        "input": "select",
+                        "options": ["Ecuador", "India", "Uganda", "United States", "Vietnam"],
+                        "name": "Country"
+                    }
+                }
+            ],      
+            "data": {
+                "url": "https://raw.githubusercontent.com/JasonKwe/fit3179/main/visualisation2/data/taste/robusta_clean.csv"
+            },
+            "transform": [
+                {
+                    "filter": "datum.countryoforigin == zoom_dropdown_r && datum.qualitymeasure != 'total'"
+                }
+            ],
+            "mark": {
+                "type": "bar",
+                "height": {"band": 0.6},
+                "cornerRadius": 6,
+                "color": "#bf8543",
+                "fillOpacity": 0.8
+            },
+            "encoding": {
+                "x": {
+                    "field": "score",
+                    "type": "quantitative",
+                    "title": "Score"
+                },
+                "y": {
+                    "field": "qualitymeasure",
+                    "type": "nominal",
+                    "title": "Quality measure",
+                    "sort": null
+                },
+                "tooltip": [
+                    {"field": "countryoforigin", "type": "nominal", "title": "Country"},
+                    {"field": "qualitymeasure", "type": "nominal", "title": "Quality measure"},
+                    {"field": "score", "type": "quantitative", "title": "Score"}
+                ]
+            }
+        }
+    ]
+}
+
+        
+
+
+
+    
