@@ -1,0 +1,51 @@
+"","Species","Country.of.Origin","quality_measure","score"
+"1","Robusta","Ecuador","Fragrance...Aroma",7.625
+"2","Robusta","Ecuador","Flavor",7.625
+"3","Robusta","Ecuador","Aftertaste",7.54
+"4","Robusta","Ecuador","Salt...Acid",7.665
+"5","Robusta","Ecuador","Bitter...Sweet",8.085
+"6","Robusta","Ecuador","Mouthfeel",5.125
+"7","Robusta","Ecuador","Uniform.Cup",10
+"8","Robusta","Ecuador","Clean.Cup",10
+"9","Robusta","Ecuador","Balance",6.54
+"10","Robusta","Ecuador","Cupper.Points",8.205
+"11","Robusta","India","Fragrance...Aroma",7.7
+"12","Robusta","India","Flavor",7.64076923076923
+"13","Robusta","India","Aftertaste",7.59692307692308
+"14","Robusta","India","Salt...Acid",7.71076923076923
+"15","Robusta","India","Bitter...Sweet",7.69230769230769
+"16","Robusta","India","Mouthfeel",7.69923076923077
+"17","Robusta","India","Uniform.Cup",9.94846153846154
+"18","Robusta","India","Clean.Cup",9.94846153846154
+"19","Robusta","India","Balance",7.69230769230769
+"20","Robusta","India","Cupper.Points",7.78153846153846
+"21","Robusta","Uganda","Fragrance...Aroma",7.832
+"22","Robusta","Uganda","Flavor",7.758
+"23","Robusta","Uganda","Aftertaste",7.674
+"24","Robusta","Uganda","Salt...Acid",7.716
+"25","Robusta","Uganda","Bitter...Sweet",7.708
+"26","Robusta","Uganda","Mouthfeel",7.801
+"27","Robusta","Uganda","Uniform.Cup",10
+"28","Robusta","Uganda","Clean.Cup",10
+"29","Robusta","Uganda","Balance",7.667
+"30","Robusta","Uganda","Cupper.Points",7.733
+"31","Robusta","United States","Fragrance...Aroma",7.625
+"32","Robusta","United States","Flavor",7.415
+"33","Robusta","United States","Aftertaste",7.295
+"34","Robusta","United States","Salt...Acid",7.42
+"35","Robusta","United States","Bitter...Sweet",7.5
+"36","Robusta","United States","Mouthfeel",7.46
+"37","Robusta","United States","Uniform.Cup",9.33
+"38","Robusta","United States","Clean.Cup",9.665
+"39","Robusta","United States","Balance",7.295
+"40","Robusta","United States","Cupper.Points",7.25
+"41","Robusta","Vietnam","Fragrance...Aroma",6.75
+"42","Robusta","Vietnam","Flavor",6.67
+"43","Robusta","Vietnam","Aftertaste",6.5
+"44","Robusta","Vietnam","Salt...Acid",6.83
+"45","Robusta","Vietnam","Bitter...Sweet",6.67
+"46","Robusta","Vietnam","Mouthfeel",6.92
+"47","Robusta","Vietnam","Uniform.Cup",9.33
+"48","Robusta","Vietnam","Clean.Cup",9.33
+"49","Robusta","Vietnam","Balance",6.83
+"50","Robusta","Vietnam","Cupper.Points",7.92
