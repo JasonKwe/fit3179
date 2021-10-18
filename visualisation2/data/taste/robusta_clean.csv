@@ -1,51 +1,56 @@
 "","countryoforigin","qualitymeasure","score"
-"1","Ecuador","Fragrance...Aroma",7.625
-"2","Ecuador","Flavor",7.625
-"3","Ecuador","Aftertaste",7.54
-"4","Ecuador","Salt...Acid",7.665
-"5","Ecuador","Bitter...Sweet",8.085
-"6","Ecuador","Mouthfeel",5.125
-"7","Ecuador","Uniform.Cup",10
-"8","Ecuador","Clean.Cup",10
-"9","Ecuador","Balance",6.54
-"10","Ecuador","Cupper.Points",8.205
-"11","India","Fragrance...Aroma",7.7
-"12","India","Flavor",7.64076923076923
-"13","India","Aftertaste",7.59692307692308
-"14","India","Salt...Acid",7.71076923076923
-"15","India","Bitter...Sweet",7.69230769230769
-"16","India","Mouthfeel",7.69923076923077
-"17","India","Uniform.Cup",9.94846153846154
-"18","India","Clean.Cup",9.94846153846154
-"19","India","Balance",7.69230769230769
-"20","India","Cupper.Points",7.78153846153846
-"21","Uganda","Fragrance...Aroma",7.832
-"22","Uganda","Flavor",7.758
-"23","Uganda","Aftertaste",7.674
-"24","Uganda","Salt...Acid",7.716
-"25","Uganda","Bitter...Sweet",7.708
-"26","Uganda","Mouthfeel",7.801
-"27","Uganda","Uniform.Cup",10
-"28","Uganda","Clean.Cup",10
-"29","Uganda","Balance",7.667
-"30","Uganda","Cupper.Points",7.733
-"31","United States","Fragrance...Aroma",7.625
-"32","United States","Flavor",7.415
-"33","United States","Aftertaste",7.295
-"34","United States","Salt...Acid",7.42
-"35","United States","Bitter...Sweet",7.5
-"36","United States","Mouthfeel",7.46
-"37","United States","Uniform.Cup",9.33
-"38","United States","Clean.Cup",9.665
-"39","United States","Balance",7.295
-"40","United States","Cupper.Points",7.25
-"41","Vietnam","Fragrance...Aroma",6.75
-"42","Vietnam","Flavor",6.67
-"43","Vietnam","Aftertaste",6.5
-"44","Vietnam","Salt...Acid",6.83
-"45","Vietnam","Bitter...Sweet",6.67
-"46","Vietnam","Mouthfeel",6.92
-"47","Vietnam","Uniform.Cup",9.33
-"48","Vietnam","Clean.Cup",9.33
-"49","Vietnam","Balance",6.83
-"50","Vietnam","Cupper.Points",7.92
+"1","Ecuador","fragrancearoma",7.625
+"2","Ecuador","flavour",7.625
+"3","Ecuador","aftertaste",7.54
+"4","Ecuador","saltacid",7.665
+"5","Ecuador","bittersweet",8.085
+"6","Ecuador","mouthfeel",5.125
+"7","Ecuador","uniformcup",10
+"8","Ecuador","cleancup",10
+"9","Ecuador","balance",6.54
+"10","Ecuador","cupperpoints",8.205
+"11","Ecuador","total",78.415
+"12","India","fragrancearoma",7.7
+"13","India","flavour",7.64076923076923
+"14","India","aftertaste",7.59692307692308
+"15","India","saltacid",7.71076923076923
+"16","India","bittersweet",7.69230769230769
+"17","India","mouthfeel",7.69923076923077
+"18","India","uniformcup",9.94846153846154
+"19","India","cleancup",9.94846153846154
+"20","India","balance",7.69230769230769
+"21","India","cupperpoints",7.78153846153846
+"22","India","total",81.41
+"23","Uganda","fragrancearoma",7.832
+"24","Uganda","flavour",7.758
+"25","Uganda","aftertaste",7.674
+"26","Uganda","saltacid",7.716
+"27","Uganda","bittersweet",7.708
+"28","Uganda","mouthfeel",7.801
+"29","Uganda","uniformcup",10
+"30","Uganda","cleancup",10
+"31","Uganda","balance",7.667
+"32","Uganda","cupperpoints",7.733
+"33","Uganda","total",81.892
+"34","United States","fragrancearoma",7.625
+"35","United States","flavour",7.415
+"36","United States","aftertaste",7.295
+"37","United States","saltacid",7.42
+"38","United States","bittersweet",7.5
+"39","United States","mouthfeel",7.46
+"40","United States","uniformcup",9.33
+"41","United States","cleancup",9.665
+"42","United States","balance",7.295
+"43","United States","cupperpoints",7.25
+"44","United States","total",78.25
+"45","Vietnam","fragrancearoma",6.75
+"46","Vietnam","flavour",6.67
+"47","Vietnam","aftertaste",6.5
+"48","Vietnam","saltacid",6.83
+"49","Vietnam","bittersweet",6.67
+"50","Vietnam","mouthfeel",6.92
+"51","Vietnam","uniformcup",9.33
+"52","Vietnam","cleancup",9.33
+"53","Vietnam","balance",6.83
+"54","Vietnam","cupperpoints",7.92
+"55","Vietnam","total",73.75

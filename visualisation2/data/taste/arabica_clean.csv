@@ -1,397 +1,397 @@
 "","countryoforigin","qualitymeasure","score"
-"1","Brazil","Aroma",7.55310606060606
-"2","Brazil","Flavor",7.57356060606061
-"3","Brazil","Aftertaste",7.4405303030303
-"4","Brazil","Acidity",7.51143939393939
-"5","Brazil","Body",7.54454545454545
-"6","Brazil","Balance",7.53151515151515
-"7","Brazil","Uniformity",9.88492424242424
-"8","Brazil","Clean.Cup",9.85348484848485
-"9","Brazil","Sweetness",9.94939393939394
-"10","Brazil","Cupper.Points",7.56295454545455
-"11","Brazil","Total.Cup.Points",82.4059090909091
-"12","Burundi","Aroma",7.415
-"13","Burundi","Flavor",7.46
-"14","Burundi","Aftertaste",7.25
-"15","Burundi","Acidity",7.415
-"16","Burundi","Body",7.29
-"17","Burundi","Balance",7.415
-"18","Burundi","Uniformity",10
-"19","Burundi","Clean.Cup",10
-"20","Burundi","Sweetness",10
-"21","Burundi","Cupper.Points",7.58
-"22","Burundi","Total.Cup.Points",81.83
-"23","China","Aroma",7.64125
-"24","China","Flavor",7.625625
-"25","China","Aftertaste",7.484375
-"26","China","Acidity",7.578125
-"27","China","Body",7.57375
-"28","China","Balance",7.548125
-"29","China","Uniformity",9.958125
-"30","China","Clean.Cup",9.958125
-"31","China","Sweetness",9.91625
-"32","China","Cupper.Points",7.646875
-"33","China","Total.Cup.Points",82.9275
-"34","Colombia","Aroma",7.65306010928962
-"35","Colombia","Flavor",7.59710382513661
-"36","Colombia","Aftertaste",7.52469945355191
-"37","Colombia","Acidity",7.56
-"38","Colombia","Body",7.60950819672131
-"39","Colombia","Balance",7.70841530054645
-"40","Colombia","Uniformity",9.9344262295082
-"41","Colombia","Clean.Cup",9.94535519125683
-"42","Colombia","Sweetness",9.95267759562842
-"43","Colombia","Cupper.Points",7.62054644808743
-"44","Colombia","Total.Cup.Points",83.1065573770492
-"45","Costa Rica","Aroma",7.67137254901961
-"46","Costa Rica","Flavor",7.53725490196078
-"47","Costa Rica","Aftertaste",7.53450980392157
-"48","Costa Rica","Acidity",7.57392156862745
-"49","Costa Rica","Body",7.53745098039216
-"50","Costa Rica","Balance",7.63725490196078
-"51","Costa Rica","Uniformity",9.85627450980392
-"52","Costa Rica","Clean.Cup",9.86921568627451
-"53","Costa Rica","Sweetness",9.90843137254902
-"54","Costa Rica","Cupper.Points",7.66352941176471
-"55","Costa Rica","Total.Cup.Points",82.7890196078431
-"56","Cote d?Ivoire","Aroma",7.42
-"57","Cote d?Ivoire","Flavor",7.25
-"58","Cote d?Ivoire","Aftertaste",6.83
-"59","Cote d?Ivoire","Acidity",7
-"60","Cote d?Ivoire","Body",7.33
-"61","Cote d?Ivoire","Balance",7.08
-"62","Cote d?Ivoire","Uniformity",9.33
-"63","Cote d?Ivoire","Clean.Cup",10
-"64","Cote d?Ivoire","Sweetness",10
-"65","Cote d?Ivoire","Cupper.Points",7.08
-"66","Cote d?Ivoire","Total.Cup.Points",79.33
-"67","Ecuador","Aroma",7.5
-"68","Ecuador","Flavor",7.67
-"69","Ecuador","Aftertaste",7.58
-"70","Ecuador","Acidity",7.75
-"71","Ecuador","Body",7.83
-"72","Ecuador","Balance",7.83
-"73","Ecuador","Uniformity",10
-"74","Ecuador","Clean.Cup",10
-"75","Ecuador","Sweetness",10
-"76","Ecuador","Cupper.Points",7.67
-"77","Ecuador","Total.Cup.Points",83.83
-"78","El Salvador","Aroma",7.6747619047619
-"79","El Salvador","Flavor",7.65428571428571
-"80","El Salvador","Aftertaste",7.56714285714286
-"81","El Salvador","Acidity",7.59047619047619
-"82","El Salvador","Body",7.60666666666667
-"83","El Salvador","Balance",7.71142857142857
-"84","El Salvador","Uniformity",9.93619047619048
-"85","El Salvador","Clean.Cup",9.93619047619048
-"86","El Salvador","Sweetness",9.80857142857143
-"87","El Salvador","Cupper.Points",7.56333333333333
-"88","El Salvador","Total.Cup.Points",83.0528571428571
-"89","Ethiopia","Aroma",7.89636363636364
-"90","Ethiopia","Flavor",8.00909090909091
-"91","Ethiopia","Aftertaste",7.89386363636364
-"92","Ethiopia","Acidity",8.04363636363636
-"93","Ethiopia","Body",7.92409090909091
-"94","Ethiopia","Balance",7.97227272727273
-"95","Ethiopia","Uniformity",9.87840909090909
-"96","Ethiopia","Clean.Cup",9.95431818181818
-"97","Ethiopia","Sweetness",9.86340909090909
-"98","Ethiopia","Cupper.Points",8.04863636363636
-"99","Ethiopia","Total.Cup.Points",85.4840909090909
-"100","Guatemala","Aroma",7.54486187845304
-"101","Guatemala","Flavor",7.48900552486188
-"102","Guatemala","Aftertaste",7.26685082872928
-"103","Guatemala","Acidity",7.59640883977901
-"104","Guatemala","Body",7.47574585635359
-"105","Guatemala","Balance",7.46988950276243
-"106","Guatemala","Uniformity",9.8524861878453
-"107","Guatemala","Clean.Cup",9.88933701657459
-"108","Guatemala","Sweetness",9.87088397790055
-"109","Guatemala","Cupper.Points",7.39110497237569
-"110","Guatemala","Total.Cup.Points",81.8465745856354
-"111","Haiti","Aroma",7.15333333333333
-"112","Haiti","Flavor",6.99833333333333
-"113","Haiti","Aftertaste",7.11166666666667
-"114","Haiti","Acidity",7.12666666666667
-"115","Haiti","Body",7.27666666666667
-"116","Haiti","Balance",7.05666666666667
-"117","Haiti","Uniformity",9.77666666666667
-"118","Haiti","Clean.Cup",8.555
-"119","Haiti","Sweetness",9.11166666666667
-"120","Haiti","Cupper.Points",7.01333333333333
-"121","Haiti","Total.Cup.Points",77.18
-"122","Honduras","Aroma",7.29245283018868
-"123","Honduras","Flavor",7.23415094339623
-"124","Honduras","Aftertaste",7.06150943396226
-"125","Honduras","Acidity",7.23358490566038
-"126","Honduras","Body",7.23924528301887
-"127","Honduras","Balance",7.16396226415094
-"128","Honduras","Uniformity",9.6477358490566
-"129","Honduras","Clean.Cup",9.63528301886793
-"130","Honduras","Sweetness",9.66037735849057
-"131","Honduras","Cupper.Points",7.18962264150943
-"132","Honduras","Total.Cup.Points",79.3575471698113
-"133","India","Aroma",7.67
-"134","India","Flavor",7.33
-"135","India","Aftertaste",7.17
-"136","India","Acidity",6.67
-"137","India","Body",7.17
-"138","India","Balance",7.42
-"139","India","Uniformity",9.33
-"140","India","Clean.Cup",10
-"141","India","Sweetness",6.67
-"142","India","Cupper.Points",7.42
-"143","India","Total.Cup.Points",76.83
-"144","Indonesia","Aroma",7.649
-"145","Indonesia","Flavor",7.573
-"146","Indonesia","Aftertaste",7.4155
-"147","Indonesia","Acidity",7.491
-"148","Indonesia","Body",7.6315
-"149","Indonesia","Balance",7.52
-"150","Indonesia","Uniformity",9.933
-"151","Indonesia","Clean.Cup",9.9665
-"152","Indonesia","Sweetness",9.9665
-"153","Indonesia","Cupper.Points",7.4165
-"154","Indonesia","Total.Cup.Points",82.5655
-"155","Japan","Aroma",7.75
-"156","Japan","Flavor",7.75
-"157","Japan","Aftertaste",7.75
-"158","Japan","Acidity",7.42
-"159","Japan","Body",8.08
-"160","Japan","Balance",7.83
-"161","Japan","Uniformity",10
-"162","Japan","Clean.Cup",10
-"163","Japan","Sweetness",10
-"164","Japan","Cupper.Points",8.08
-"165","Japan","Total.Cup.Points",84.67
-"166","Kenya","Aroma",7.7868
-"167","Kenya","Flavor",7.7824
-"168","Kenya","Aftertaste",7.7132
-"169","Kenya","Acidity",7.866
-"170","Kenya","Body",7.7264
-"171","Kenya","Balance",7.8004
-"172","Kenya","Uniformity",9.9732
-"173","Kenya","Clean.Cup",9.9732
-"174","Kenya","Sweetness",9.9732
-"175","Kenya","Cupper.Points",7.7132
-"176","Kenya","Total.Cup.Points",84.3096
-"177","Laos","Aroma",7.50333333333333
-"178","Laos","Flavor",7.5
-"179","Laos","Aftertaste",7.28
-"180","Laos","Acidity",7.30666666666667
-"181","Laos","Body",7.36333333333333
-"182","Laos","Balance",7.41666666666667
-"183","Laos","Uniformity",10
-"184","Laos","Clean.Cup",10
-"185","Laos","Sweetness",10
-"186","Laos","Cupper.Points",7.47
-"187","Laos","Total.Cup.Points",81.8333333333333
-"188","Malawi","Aroma",7.56727272727273
-"189","Malawi","Flavor",7.38727272727273
-"190","Malawi","Aftertaste",7.25727272727273
-"191","Malawi","Acidity",7.40818181818182
-"192","Malawi","Body",7.33818181818182
-"193","Malawi","Balance",7.37181818181818
-"194","Malawi","Uniformity",10
-"195","Malawi","Clean.Cup",10
-"196","Malawi","Sweetness",10
-"197","Malawi","Cupper.Points",7.37909090909091
-"198","Malawi","Total.Cup.Points",81.7118181818182
-"199","Mauritius","Aroma",7.25
-"200","Mauritius","Flavor",7.25
-"201","Mauritius","Aftertaste",7.17
-"202","Mauritius","Acidity",7.17
-"203","Mauritius","Body",7.25
-"204","Mauritius","Balance",7.17
-"205","Mauritius","Uniformity",10
-"206","Mauritius","Clean.Cup",10
-"207","Mauritius","Sweetness",10
-"208","Mauritius","Cupper.Points",7.25
-"209","Mauritius","Total.Cup.Points",80.5
-"210","Mexico","Aroma",7.45758474576271
-"211","Mexico","Flavor",7.37902542372881
-"212","Mexico","Aftertaste",7.22805084745763
-"213","Mexico","Acidity",7.42834745762712
-"214","Mexico","Body",7.38046610169491
-"215","Mexico","Balance",7.32868644067797
-"216","Mexico","Uniformity",9.74406779661017
-"217","Mexico","Clean.Cup",9.65813559322034
-"218","Mexico","Sweetness",9.97177966101695
-"219","Mexico","Cupper.Points",7.31470338983051
-"220","Mexico","Total.Cup.Points",80.8900847457627
-"221","Myanmar","Aroma",7.30375
-"222","Myanmar","Flavor",7.3325
-"223","Myanmar","Aftertaste",7.125
-"224","Myanmar","Acidity",7.40625
-"225","Myanmar","Body",7.27
-"226","Myanmar","Balance",7.13375
-"227","Myanmar","Uniformity",10
-"228","Myanmar","Clean.Cup",10
-"229","Myanmar","Sweetness",10
-"230","Myanmar","Cupper.Points",7.1775
-"231","Myanmar","Total.Cup.Points",80.75
-"232","Nicaragua","Aroma",7.32923076923077
-"233","Nicaragua","Flavor",7.31692307692308
-"234","Nicaragua","Aftertaste",7.20192307692308
-"235","Nicaragua","Acidity",7.26653846153846
-"236","Nicaragua","Body",7.40076923076923
-"237","Nicaragua","Balance",7.27846153846154
-"238","Nicaragua","Uniformity",9.79461538461539
-"239","Nicaragua","Clean.Cup",9.76923076923077
-"240","Nicaragua","Sweetness",9.82038461538462
-"241","Nicaragua","Cupper.Points",7.27884615384615
-"242","Nicaragua","Total.Cup.Points",80.4580769230769
-"243","Panama","Aroma",7.6675
-"244","Panama","Flavor",7.625
-"245","Panama","Aftertaste",7.605
-"246","Panama","Acidity",7.705
-"247","Panama","Body",7.5825
-"248","Panama","Balance",7.875
-"249","Panama","Uniformity",10
-"250","Panama","Clean.Cup",10
-"251","Panama","Sweetness",10
-"252","Panama","Cupper.Points",7.645
-"253","Panama","Total.Cup.Points",83.7075
-"254","Papua New Guinea","Aroma",8.33
-"255","Papua New Guinea","Flavor",8.42
-"256","Papua New Guinea","Aftertaste",7.83
-"257","Papua New Guinea","Acidity",8.33
-"258","Papua New Guinea","Body",8
-"259","Papua New Guinea","Balance",8.25
-"260","Papua New Guinea","Uniformity",9.33
-"261","Papua New Guinea","Clean.Cup",9.33
-"262","Papua New Guinea","Sweetness",10
-"263","Papua New Guinea","Cupper.Points",7.92
-"264","Papua New Guinea","Total.Cup.Points",85.75
-"265","Peru","Aroma",7.693
-"266","Peru","Flavor",7.658
-"267","Peru","Aftertaste",7.541
-"268","Peru","Acidity",7.699
-"269","Peru","Body",7.802
-"270","Peru","Balance",7.666
-"271","Peru","Uniformity",9.533
-"272","Peru","Clean.Cup",9.466
-"273","Peru","Sweetness",9.866
-"274","Peru","Cupper.Points",7.601
-"275","Peru","Total.Cup.Points",82.526
-"276","Philippines","Aroma",7.364
-"277","Philippines","Flavor",7.232
-"278","Philippines","Aftertaste",7.302
-"279","Philippines","Acidity",7.266
-"280","Philippines","Body",7.298
-"281","Philippines","Balance",7.4
-"282","Philippines","Uniformity",9.866
-"283","Philippines","Clean.Cup",10
-"284","Philippines","Sweetness",9.866
-"285","Philippines","Cupper.Points",7.234
-"286","Philippines","Total.Cup.Points",80.834
-"287","Rwanda","Aroma",7.83
-"288","Rwanda","Flavor",7.92
-"289","Rwanda","Aftertaste",7.75
-"290","Rwanda","Acidity",7.83
-"291","Rwanda","Body",7.75
-"292","Rwanda","Balance",7.75
-"293","Rwanda","Uniformity",9.33
-"294","Rwanda","Clean.Cup",9.33
-"295","Rwanda","Sweetness",9.33
-"296","Rwanda","Cupper.Points",8
-"297","Rwanda","Total.Cup.Points",82.83
-"298","Taiwan","Aroma",7.5336
-"299","Taiwan","Flavor",7.4636
-"300","Taiwan","Aftertaste",7.39546666666667
-"301","Taiwan","Acidity",7.41546666666667
-"302","Taiwan","Body",7.45
-"303","Taiwan","Balance",7.426
-"304","Taiwan","Uniformity",9.89306666666667
-"305","Taiwan","Clean.Cup",9.98213333333333
-"306","Taiwan","Sweetness",9.9644
-"307","Taiwan","Cupper.Points",7.47666666666667
-"308","Taiwan","Total.Cup.Points",82.0013333333333
-"309","Tanzania, United Republic Of","Aroma",7.57125
-"310","Tanzania, United Republic Of","Flavor",7.42975
-"311","Tanzania, United Republic Of","Aftertaste",7.425
-"312","Tanzania, United Republic Of","Acidity",7.5
-"313","Tanzania, United Republic Of","Body",7.479
-"314","Tanzania, United Republic Of","Balance",7.46975
-"315","Tanzania, United Republic Of","Uniformity",10
-"316","Tanzania, United Republic Of","Clean.Cup",10
-"317","Tanzania, United Republic Of","Sweetness",10
-"318","Tanzania, United Republic Of","Cupper.Points",7.49325
-"319","Tanzania, United Republic Of","Total.Cup.Points",82.3695
-"320","Thailand","Aroma",7.4840625
-"321","Thailand","Flavor",7.528125
-"322","Thailand","Aftertaste",7.4734375
-"323","Thailand","Acidity",7.5971875
-"324","Thailand","Body",7.5521875
-"325","Thailand","Balance",7.5240625
-"326","Thailand","Uniformity",9.9375
-"327","Thailand","Clean.Cup",9.9584375
-"328","Thailand","Sweetness",9.958125
-"329","Thailand","Cupper.Points",7.5596875
-"330","Thailand","Total.Cup.Points",82.57375
-"331","Uganda","Aroma",7.90423076923077
-"332","Uganda","Flavor",7.75076923076923
-"333","Uganda","Aftertaste",7.60269230769231
-"334","Uganda","Acidity",7.70576923076923
-"335","Uganda","Body",7.68884615384615
-"336","Uganda","Balance",7.66076923076923
-"337","Uganda","Uniformity",10
-"338","Uganda","Clean.Cup",10
-"339","Uganda","Sweetness",10
-"340","Uganda","Cupper.Points",7.74076923076923
-"341","Uganda","Total.Cup.Points",84.0519230769231
-"342","United States","Aroma",7.88625
-"343","United States","Flavor",8.13625
-"344","United States","Aftertaste",7.98875
-"345","United States","Acidity",8.06375
-"346","United States","Body",7.9375
-"347","United States","Balance",7.9475
-"348","United States","Uniformity",10
-"349","United States","Clean.Cup",10
-"350","United States","Sweetness",10
-"351","United States","Cupper.Points",8.02125
-"352","United States","Total.Cup.Points",85.97875
-"353","United States (Hawaii)","Aroma",7.57246575342466
-"354","United States (Hawaii)","Flavor",7.57643835616438
-"355","United States (Hawaii)","Aftertaste",7.5027397260274
-"356","United States (Hawaii)","Acidity",7.61547945205479
-"357","United States (Hawaii)","Body",7.62575342465753
-"358","United States (Hawaii)","Balance",7.6441095890411
-"359","United States (Hawaii)","Uniformity",9.47890410958904
-"360","United States (Hawaii)","Clean.Cup",9.56150684931507
-"361","United States (Hawaii)","Sweetness",9.65246575342466
-"362","United States (Hawaii)","Cupper.Points",7.58876712328767
-"363","United States (Hawaii)","Total.Cup.Points",81.8204109589041
-"364","United States (Puerto Rico)","Aroma",7.6475
-"365","United States (Puerto Rico)","Flavor",7.54
-"366","United States (Puerto Rico)","Aftertaste",7.48
-"367","United States (Puerto Rico)","Acidity",7.6025
-"368","United States (Puerto Rico)","Body",7.665
-"369","United States (Puerto Rico)","Balance",7.6475
-"370","United States (Puerto Rico)","Uniformity",9
-"371","United States (Puerto Rico)","Clean.Cup",9.665
-"372","United States (Puerto Rico)","Sweetness",9.8325
-"373","United States (Puerto Rico)","Cupper.Points",7.6475
-"374","United States (Puerto Rico)","Total.Cup.Points",81.7275
-"375","Vietnam","Aroma",7.47714285714286
-"376","Vietnam","Flavor",7.47571428571429
-"377","Vietnam","Aftertaste",7.29714285714286
-"378","Vietnam","Acidity",7.43857142857143
-"379","Vietnam","Body",7.63142857142857
-"380","Vietnam","Balance",7.54714285714286
-"381","Vietnam","Uniformity",9.71428571428571
-"382","Vietnam","Clean.Cup",10
-"383","Vietnam","Sweetness",10
-"384","Vietnam","Cupper.Points",7.69142857142857
-"385","Vietnam","Total.Cup.Points",82.2742857142857
-"386","Zambia","Aroma",7.67
-"387","Zambia","Flavor",7.08
-"388","Zambia","Aftertaste",7.42
-"389","Zambia","Acidity",7.33
-"390","Zambia","Body",7.75
-"391","Zambia","Balance",7.42
-"392","Zambia","Uniformity",10
-"393","Zambia","Clean.Cup",10
-"394","Zambia","Sweetness",10
-"395","Zambia","Cupper.Points",7.25
-"396","Zambia","Total.Cup.Points",81.92
+"1","Brazil","aroma",7.55310606060606
+"2","Brazil","flavour",7.57356060606061
+"3","Brazil","aftertaste",7.4405303030303
+"4","Brazil","acidity",7.51143939393939
+"5","Brazil","body",7.54454545454545
+"6","Brazil","balance",7.53151515151515
+"7","Brazil","uniformity",9.88492424242424
+"8","Brazil","cleancup",9.85348484848485
+"9","Brazil","sweetness",9.94939393939394
+"10","Brazil","cupperpoints",7.56295454545455
+"11","Brazil","total",82.4059090909091
+"12","Burundi","aroma",7.415
+"13","Burundi","flavour",7.46
+"14","Burundi","aftertaste",7.25
+"15","Burundi","acidity",7.415
+"16","Burundi","body",7.29
+"17","Burundi","balance",7.415
+"18","Burundi","uniformity",10
+"19","Burundi","cleancup",10
+"20","Burundi","sweetness",10
+"21","Burundi","cupperpoints",7.58
+"22","Burundi","total",81.83
+"23","China","aroma",7.64125
+"24","China","flavour",7.625625
+"25","China","aftertaste",7.484375
+"26","China","acidity",7.578125
+"27","China","body",7.57375
+"28","China","balance",7.548125
+"29","China","uniformity",9.958125
+"30","China","cleancup",9.958125
+"31","China","sweetness",9.91625
+"32","China","cupperpoints",7.646875
+"33","China","total",82.9275
+"34","Colombia","aroma",7.65306010928962
+"35","Colombia","flavour",7.59710382513661
+"36","Colombia","aftertaste",7.52469945355191
+"37","Colombia","acidity",7.56
+"38","Colombia","body",7.60950819672131
+"39","Colombia","balance",7.70841530054645
+"40","Colombia","uniformity",9.9344262295082
+"41","Colombia","cleancup",9.94535519125683
+"42","Colombia","sweetness",9.95267759562842
+"43","Colombia","cupperpoints",7.62054644808743
+"44","Colombia","total",83.1065573770492
+"45","Costa Rica","aroma",7.67137254901961
+"46","Costa Rica","flavour",7.53725490196078
+"47","Costa Rica","aftertaste",7.53450980392157
+"48","Costa Rica","acidity",7.57392156862745
+"49","Costa Rica","body",7.53745098039216
+"50","Costa Rica","balance",7.63725490196078
+"51","Costa Rica","uniformity",9.85627450980392
+"52","Costa Rica","cleancup",9.86921568627451
+"53","Costa Rica","sweetness",9.90843137254902
+"54","Costa Rica","cupperpoints",7.66352941176471
+"55","Costa Rica","total",82.7890196078431
+"56","Cote d?Ivoire","aroma",7.42
+"57","Cote d?Ivoire","flavour",7.25
+"58","Cote d?Ivoire","aftertaste",6.83
+"59","Cote d?Ivoire","acidity",7
+"60","Cote d?Ivoire","body",7.33
+"61","Cote d?Ivoire","balance",7.08
+"62","Cote d?Ivoire","uniformity",9.33
+"63","Cote d?Ivoire","cleancup",10
+"64","Cote d?Ivoire","sweetness",10
+"65","Cote d?Ivoire","cupperpoints",7.08
+"66","Cote d?Ivoire","total",79.33
+"67","Ecuador","aroma",7.5
+"68","Ecuador","flavour",7.67
+"69","Ecuador","aftertaste",7.58
+"70","Ecuador","acidity",7.75
+"71","Ecuador","body",7.83
+"72","Ecuador","balance",7.83
+"73","Ecuador","uniformity",10
+"74","Ecuador","cleancup",10
+"75","Ecuador","sweetness",10
+"76","Ecuador","cupperpoints",7.67
+"77","Ecuador","total",83.83
+"78","El Salvador","aroma",7.6747619047619
+"79","El Salvador","flavour",7.65428571428571
+"80","El Salvador","aftertaste",7.56714285714286
+"81","El Salvador","acidity",7.59047619047619
+"82","El Salvador","body",7.60666666666667
+"83","El Salvador","balance",7.71142857142857
+"84","El Salvador","uniformity",9.93619047619048
+"85","El Salvador","cleancup",9.93619047619048
+"86","El Salvador","sweetness",9.80857142857143
+"87","El Salvador","cupperpoints",7.56333333333333
+"88","El Salvador","total",83.0528571428571
+"89","Ethiopia","aroma",7.89636363636364
+"90","Ethiopia","flavour",8.00909090909091
+"91","Ethiopia","aftertaste",7.89386363636364
+"92","Ethiopia","acidity",8.04363636363636
+"93","Ethiopia","body",7.92409090909091
+"94","Ethiopia","balance",7.97227272727273
+"95","Ethiopia","uniformity",9.87840909090909
+"96","Ethiopia","cleancup",9.95431818181818
+"97","Ethiopia","sweetness",9.86340909090909
+"98","Ethiopia","cupperpoints",8.04863636363636
+"99","Ethiopia","total",85.4840909090909
+"100","Guatemala","aroma",7.54486187845304
+"101","Guatemala","flavour",7.48900552486188
+"102","Guatemala","aftertaste",7.26685082872928
+"103","Guatemala","acidity",7.59640883977901
+"104","Guatemala","body",7.47574585635359
+"105","Guatemala","balance",7.46988950276243
+"106","Guatemala","uniformity",9.8524861878453
+"107","Guatemala","cleancup",9.88933701657459
+"108","Guatemala","sweetness",9.87088397790055
+"109","Guatemala","cupperpoints",7.39110497237569
+"110","Guatemala","total",81.8465745856354
+"111","Haiti","aroma",7.15333333333333
+"112","Haiti","flavour",6.99833333333333
+"113","Haiti","aftertaste",7.11166666666667
+"114","Haiti","acidity",7.12666666666667
+"115","Haiti","body",7.27666666666667
+"116","Haiti","balance",7.05666666666667
+"117","Haiti","uniformity",9.77666666666667
+"118","Haiti","cleancup",8.555
+"119","Haiti","sweetness",9.11166666666667
+"120","Haiti","cupperpoints",7.01333333333333
+"121","Haiti","total",77.18
+"122","Honduras","aroma",7.29245283018868
+"123","Honduras","flavour",7.23415094339623
+"124","Honduras","aftertaste",7.06150943396226
+"125","Honduras","acidity",7.23358490566038
+"126","Honduras","body",7.23924528301887
+"127","Honduras","balance",7.16396226415094
+"128","Honduras","uniformity",9.6477358490566
+"129","Honduras","cleancup",9.63528301886793
+"130","Honduras","sweetness",9.66037735849057
+"131","Honduras","cupperpoints",7.18962264150943
+"132","Honduras","total",79.3575471698113
+"133","India","aroma",7.67
+"134","India","flavour",7.33
+"135","India","aftertaste",7.17
+"136","India","acidity",6.67
+"137","India","body",7.17
+"138","India","balance",7.42
+"139","India","uniformity",9.33
+"140","India","cleancup",10
+"141","India","sweetness",6.67
+"142","India","cupperpoints",7.42
+"143","India","total",76.83
+"144","Indonesia","aroma",7.649
+"145","Indonesia","flavour",7.573
+"146","Indonesia","aftertaste",7.4155
+"147","Indonesia","acidity",7.491
+"148","Indonesia","body",7.6315
+"149","Indonesia","balance",7.52
+"150","Indonesia","uniformity",9.933
+"151","Indonesia","cleancup",9.9665
+"152","Indonesia","sweetness",9.9665
+"153","Indonesia","cupperpoints",7.4165
+"154","Indonesia","total",82.5655
+"155","Japan","aroma",7.75
+"156","Japan","flavour",7.75
+"157","Japan","aftertaste",7.75
+"158","Japan","acidity",7.42
+"159","Japan","body",8.08
+"160","Japan","balance",7.83
+"161","Japan","uniformity",10
+"162","Japan","cleancup",10
+"163","Japan","sweetness",10
+"164","Japan","cupperpoints",8.08
+"165","Japan","total",84.67
+"166","Kenya","aroma",7.7868
+"167","Kenya","flavour",7.7824
+"168","Kenya","aftertaste",7.7132
+"169","Kenya","acidity",7.866
+"170","Kenya","body",7.7264
+"171","Kenya","balance",7.8004
+"172","Kenya","uniformity",9.9732
+"173","Kenya","cleancup",9.9732
+"174","Kenya","sweetness",9.9732
+"175","Kenya","cupperpoints",7.7132
+"176","Kenya","total",84.3096
+"177","Laos","aroma",7.50333333333333
+"178","Laos","flavour",7.5
+"179","Laos","aftertaste",7.28
+"180","Laos","acidity",7.30666666666667
+"181","Laos","body",7.36333333333333
+"182","Laos","balance",7.41666666666667
+"183","Laos","uniformity",10
+"184","Laos","cleancup",10
+"185","Laos","sweetness",10
+"186","Laos","cupperpoints",7.47
+"187","Laos","total",81.8333333333333
+"188","Malawi","aroma",7.56727272727273
+"189","Malawi","flavour",7.38727272727273
+"190","Malawi","aftertaste",7.25727272727273
+"191","Malawi","acidity",7.40818181818182
+"192","Malawi","body",7.33818181818182
+"193","Malawi","balance",7.37181818181818
+"194","Malawi","uniformity",10
+"195","Malawi","cleancup",10
+"196","Malawi","sweetness",10
+"197","Malawi","cupperpoints",7.37909090909091
+"198","Malawi","total",81.7118181818182
+"199","Mauritius","aroma",7.25
+"200","Mauritius","flavour",7.25
+"201","Mauritius","aftertaste",7.17
+"202","Mauritius","acidity",7.17
+"203","Mauritius","body",7.25
+"204","Mauritius","balance",7.17
+"205","Mauritius","uniformity",10
+"206","Mauritius","cleancup",10
+"207","Mauritius","sweetness",10
+"208","Mauritius","cupperpoints",7.25
+"209","Mauritius","total",80.5
+"210","Mexico","aroma",7.45758474576271
+"211","Mexico","flavour",7.37902542372881
+"212","Mexico","aftertaste",7.22805084745763
+"213","Mexico","acidity",7.42834745762712
+"214","Mexico","body",7.38046610169491
+"215","Mexico","balance",7.32868644067797
+"216","Mexico","uniformity",9.74406779661017
+"217","Mexico","cleancup",9.65813559322034
+"218","Mexico","sweetness",9.97177966101695
+"219","Mexico","cupperpoints",7.31470338983051
+"220","Mexico","total",80.8900847457627
+"221","Myanmar","aroma",7.30375
+"222","Myanmar","flavour",7.3325
+"223","Myanmar","aftertaste",7.125
+"224","Myanmar","acidity",7.40625
+"225","Myanmar","body",7.27
+"226","Myanmar","balance",7.13375
+"227","Myanmar","uniformity",10
+"228","Myanmar","cleancup",10
+"229","Myanmar","sweetness",10
+"230","Myanmar","cupperpoints",7.1775
+"231","Myanmar","total",80.75
+"232","Nicaragua","aroma",7.32923076923077
+"233","Nicaragua","flavour",7.31692307692308
+"234","Nicaragua","aftertaste",7.20192307692308
+"235","Nicaragua","acidity",7.26653846153846
+"236","Nicaragua","body",7.40076923076923
+"237","Nicaragua","balance",7.27846153846154
+"238","Nicaragua","uniformity",9.79461538461539
+"239","Nicaragua","cleancup",9.76923076923077
+"240","Nicaragua","sweetness",9.82038461538462
+"241","Nicaragua","cupperpoints",7.27884615384615
+"242","Nicaragua","total",80.4580769230769
+"243","Panama","aroma",7.6675
+"244","Panama","flavour",7.625
+"245","Panama","aftertaste",7.605
+"246","Panama","acidity",7.705
+"247","Panama","body",7.5825
+"248","Panama","balance",7.875
+"249","Panama","uniformity",10
+"250","Panama","cleancup",10
+"251","Panama","sweetness",10
+"252","Panama","cupperpoints",7.645
+"253","Panama","total",83.7075
+"254","Papua New Guinea","aroma",8.33
+"255","Papua New Guinea","flavour",8.42
+"256","Papua New Guinea","aftertaste",7.83
+"257","Papua New Guinea","acidity",8.33
+"258","Papua New Guinea","body",8
+"259","Papua New Guinea","balance",8.25
+"260","Papua New Guinea","uniformity",9.33
+"261","Papua New Guinea","cleancup",9.33
+"262","Papua New Guinea","sweetness",10
+"263","Papua New Guinea","cupperpoints",7.92
+"264","Papua New Guinea","total",85.75
+"265","Peru","aroma",7.693
+"266","Peru","flavour",7.658
+"267","Peru","aftertaste",7.541
+"268","Peru","acidity",7.699
+"269","Peru","body",7.802
+"270","Peru","balance",7.666
+"271","Peru","uniformity",9.533
+"272","Peru","cleancup",9.466
+"273","Peru","sweetness",9.866
+"274","Peru","cupperpoints",7.601
+"275","Peru","total",82.526
+"276","Philippines","aroma",7.364
+"277","Philippines","flavour",7.232
+"278","Philippines","aftertaste",7.302
+"279","Philippines","acidity",7.266
+"280","Philippines","body",7.298
+"281","Philippines","balance",7.4
+"282","Philippines","uniformity",9.866
+"283","Philippines","cleancup",10
+"284","Philippines","sweetness",9.866
+"285","Philippines","cupperpoints",7.234
+"286","Philippines","total",80.834
+"287","Rwanda","aroma",7.83
+"288","Rwanda","flavour",7.92
+"289","Rwanda","aftertaste",7.75
+"290","Rwanda","acidity",7.83
+"291","Rwanda","body",7.75
+"292","Rwanda","balance",7.75
+"293","Rwanda","uniformity",9.33
+"294","Rwanda","cleancup",9.33
+"295","Rwanda","sweetness",9.33
+"296","Rwanda","cupperpoints",8
+"297","Rwanda","total",82.83
+"298","Taiwan","aroma",7.5336
+"299","Taiwan","flavour",7.4636
+"300","Taiwan","aftertaste",7.39546666666667
+"301","Taiwan","acidity",7.41546666666667
+"302","Taiwan","body",7.45
+"303","Taiwan","balance",7.426
+"304","Taiwan","uniformity",9.89306666666667
+"305","Taiwan","cleancup",9.98213333333333
+"306","Taiwan","sweetness",9.9644
+"307","Taiwan","cupperpoints",7.47666666666667
+"308","Taiwan","total",82.0013333333333
+"309","Tanzania, United Republic Of","aroma",7.57125
+"310","Tanzania, United Republic Of","flavour",7.42975
+"311","Tanzania, United Republic Of","aftertaste",7.425
+"312","Tanzania, United Republic Of","acidity",7.5
+"313","Tanzania, United Republic Of","body",7.479
+"314","Tanzania, United Republic Of","balance",7.46975
+"315","Tanzania, United Republic Of","uniformity",10
+"316","Tanzania, United Republic Of","cleancup",10
+"317","Tanzania, United Republic Of","sweetness",10
+"318","Tanzania, United Republic Of","cupperpoints",7.49325
+"319","Tanzania, United Republic Of","total",82.3695
+"320","Thailand","aroma",7.4840625
+"321","Thailand","flavour",7.528125
+"322","Thailand","aftertaste",7.4734375
+"323","Thailand","acidity",7.5971875
+"324","Thailand","body",7.5521875
+"325","Thailand","balance",7.5240625
+"326","Thailand","uniformity",9.9375
+"327","Thailand","cleancup",9.9584375
+"328","Thailand","sweetness",9.958125
+"329","Thailand","cupperpoints",7.5596875
+"330","Thailand","total",82.57375
+"331","Uganda","aroma",7.90423076923077
+"332","Uganda","flavour",7.75076923076923
+"333","Uganda","aftertaste",7.60269230769231
+"334","Uganda","acidity",7.70576923076923
+"335","Uganda","body",7.68884615384615
+"336","Uganda","balance",7.66076923076923
+"337","Uganda","uniformity",10
+"338","Uganda","cleancup",10
+"339","Uganda","sweetness",10
+"340","Uganda","cupperpoints",7.74076923076923
+"341","Uganda","total",84.0519230769231
+"342","United States","aroma",7.88625
+"343","United States","flavour",8.13625
+"344","United States","aftertaste",7.98875
+"345","United States","acidity",8.06375
+"346","United States","body",7.9375
+"347","United States","balance",7.9475
+"348","United States","uniformity",10
+"349","United States","cleancup",10
+"350","United States","sweetness",10
+"351","United States","cupperpoints",8.02125
+"352","United States","total",85.97875
+"353","United States (Hawaii)","aroma",7.57246575342466
+"354","United States (Hawaii)","flavour",7.57643835616438
+"355","United States (Hawaii)","aftertaste",7.5027397260274
+"356","United States (Hawaii)","acidity",7.61547945205479
+"357","United States (Hawaii)","body",7.62575342465753
+"358","United States (Hawaii)","balance",7.6441095890411
+"359","United States (Hawaii)","uniformity",9.47890410958904
+"360","United States (Hawaii)","cleancup",9.56150684931507
+"361","United States (Hawaii)","sweetness",9.65246575342466
+"362","United States (Hawaii)","cupperpoints",7.58876712328767
+"363","United States (Hawaii)","total",81.8204109589041
+"364","United States (Puerto Rico)","aroma",7.6475
+"365","United States (Puerto Rico)","flavour",7.54
+"366","United States (Puerto Rico)","aftertaste",7.48
+"367","United States (Puerto Rico)","acidity",7.6025
+"368","United States (Puerto Rico)","body",7.665
+"369","United States (Puerto Rico)","balance",7.6475
+"370","United States (Puerto Rico)","uniformity",9
+"371","United States (Puerto Rico)","cleancup",9.665
+"372","United States (Puerto Rico)","sweetness",9.8325
+"373","United States (Puerto Rico)","cupperpoints",7.6475
+"374","United States (Puerto Rico)","total",81.7275
+"375","Vietnam","aroma",7.47714285714286
+"376","Vietnam","flavour",7.47571428571429
+"377","Vietnam","aftertaste",7.29714285714286
+"378","Vietnam","acidity",7.43857142857143
+"379","Vietnam","body",7.63142857142857
+"380","Vietnam","balance",7.54714285714286
+"381","Vietnam","uniformity",9.71428571428571
+"382","Vietnam","cleancup",10
+"383","Vietnam","sweetness",10
+"384","Vietnam","cupperpoints",7.69142857142857
+"385","Vietnam","total",82.2742857142857
+"386","Zambia","aroma",7.67
+"387","Zambia","flavour",7.08
+"388","Zambia","aftertaste",7.42
+"389","Zambia","acidity",7.33
+"390","Zambia","body",7.75
+"391","Zambia","balance",7.42
+"392","Zambia","uniformity",10
+"393","Zambia","cleancup",10
+"394","Zambia","sweetness",10
+"395","Zambia","cupperpoints",7.25
+"396","Zambia","total",81.92
